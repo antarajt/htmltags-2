@@ -1,0 +1,12 @@
+h1{
+    background-color: bisque;
+    color: black;
+    text-decoration: underline;
+}
+p{
+    font-weight: ;
+    font-size: 25px;
+}
+table, th, td{
+    border: 1px solid black;
+}
